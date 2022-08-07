@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gfthirdthrust.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="thrust0000" x="0" y="0" width="750" height="750"/>
+	<SubTexture name="thrust0001" x="750" y="0" width="750" height="750"/>
+	<SubTexture name="thrust0002" x="1500" y="0" width="750" height="750"/>
+	<SubTexture name="thrust0003" x="2250" y="0" width="750" height="750"/>
+	<SubTexture name="thrust0004" x="3000" y="0" width="750" height="750"/>
+	<SubTexture name="thrust0005" x="0" y="750" width="750" height="750"/>
+	<SubTexture name="thrust0006" x="750" y="750" width="750" height="750"/>
+	<SubTexture name="thrust0007" x="1500" y="750" width="750" height="750"/>
+	<SubTexture name="thrust0008" x="2250" y="750" width="750" height="750"/>
+	<SubTexture name="thrust0009" x="3000" y="750" width="750" height="750"/>
+	<SubTexture name="thrust_loop0000" x="0" y="0" width="750" height="750"/>
+</TextureAtlas>
