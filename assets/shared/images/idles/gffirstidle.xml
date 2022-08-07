@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gffirstidle.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="0" y="0" width="750" height="750"/>
+	<SubTexture name="idle0001" x="750" y="0" width="750" height="750"/>
+	<SubTexture name="idle0002" x="1500" y="0" width="750" height="750"/>
+	<SubTexture name="idle0003" x="2250" y="0" width="750" height="750"/>
+	<SubTexture name="idle0004" x="3000" y="0" width="750" height="750"/>
+	<SubTexture name="idle0005" x="0" y="750" width="750" height="750"/>
+	<SubTexture name="idle0006" x="750" y="750" width="750" height="750"/>
+	<SubTexture name="idle0007" x="1500" y="750" width="750" height="750"/>
+	<SubTexture name="idle0008" x="2250" y="750" width="750" height="750"/>
+	<SubTexture name="idle0009" x="3000" y="750" width="750" height="750"/>
+	<SubTexture name="idle0010" x="7500" y="750" width="0" height="0" frameX="0" frameY="0" frameWidth="750" frameHeight="750"/>
+	<SubTexture name="idle0011" x="0" y="1500" width="750" height="750"/>
+	<SubTexture name="idle0012" x="750" y="1500" width="750" height="750"/>
+	<SubTexture name="idle0013" x="1500" y="1500" width="750" height="750"/>
+	<SubTexture name="idle0014" x="2250" y="1500" width="750" height="750"/>
+	<SubTexture name="idle0015" x="3000" y="1500" width="750" height="750"/>
+	<SubTexture name="idle0016" x="0" y="2250" width="750" height="750"/>
+	<SubTexture name="idle0017" x="750" y="2250" width="750" height="750"/>
+	<SubTexture name="idle0018" x="1500" y="2250" width="750" height="750"/>
+	<SubTexture name="idle0019" x="2250" y="2250" width="750" height="750"/>
+	<SubTexture name="idle0020" x="3000" y="2250" width="750" height="750"/>
+</TextureAtlas>
