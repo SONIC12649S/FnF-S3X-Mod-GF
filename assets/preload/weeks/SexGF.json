@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["fnfgf", "gf", [255, 120, 191]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "",
+
+	"storyName": "Sex Mod",
+	"weekBefore": "tutorial",
+	"difficulties": "Hard",
+	"weekName": "Sex",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}
