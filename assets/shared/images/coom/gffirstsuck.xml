@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gffirstsuck.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="suck0000" x="0" y="0" width="750" height="750"/>
+	<SubTexture name="suck0001" x="750" y="0" width="750" height="750"/>
+	<SubTexture name="suck0002" x="1500" y="0" width="750" height="750"/>
+	<SubTexture name="suck0003" x="4500" y="0" width="750" height="750"/>
+	<SubTexture name="suck0004" x="6000" y="0" width="750" height="750"/>
+	<SubTexture name="suck_bite0000" x="0" y="750" width="750" height="750"/>
+	<SubTexture name="suck_bite0001" x="750" y="750" width="750" height="750"/>
+	<SubTexture name="suck_bite0002" x="1500" y="750" width="750" height="750"/>
+	<SubTexture name="suck_idle0000" x="0" y="0" width="750" height="750"/>
+</TextureAtlas>
