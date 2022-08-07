@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gfthirdcoomspill.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="done_spil0000" x="0" y="0" width="750" height="750"/>
+	<SubTexture name="done_spil0001" x="750" y="0" width="750" height="750"/>
+	<SubTexture name="done_spil0002" x="1501" y="0" width="750" height="750"/>
+	<SubTexture name="done_spil0003" x="2251" y="0" width="750" height="750"/>
+	<SubTexture name="done_spil0004" x="3002" y="0" width="750" height="750"/>
+	<SubTexture name="done_spil0005" x="0" y="750" width="750" height="750"/>
+	<SubTexture name="done_spil0006" x="750" y="750" width="750" height="750"/>
+	<SubTexture name="done_spil0007" x="1501" y="750" width="750" height="750"/>
+	<SubTexture name="done_spil0008" x="2251" y="750" width="750" height="750"/>
+	<SubTexture name="done_spil0009" x="3002" y="750" width="750" height="750"/>
+	<SubTexture name="done_spil0010" x="0" y="1500" width="750" height="750"/>
+	<SubTexture name="done_spil0011" x="750" y="1500" width="750" height="750"/>
+	<SubTexture name="done_spil0012" x="1501" y="1500" width="750" height="750"/>
+	<SubTexture name="done_spil0013" x="2251" y="1500" width="750" height="750"/>
+	<SubTexture name="done_spil0014" x="3002" y="1500" width="750" height="750"/>
+	<SubTexture name="done_spil0015" x="0" y="2250" width="750" height="750"/>
+	<SubTexture name="done_spil0016" x="750" y="2250" width="750" height="750"/>
+	<SubTexture name="done_spil0017" x="1501" y="2250" width="750" height="750"/>
+	<SubTexture name="done_spil0018" x="2251" y="2250" width="750" height="750"/>
+	<SubTexture name="done_spil0019" x="3002" y="2250" width="750" height="750"/>
+	<SubTexture name="done_spilloop0000" x="0" y="6000" width="750" height="750"/>
+</TextureAtlas>
